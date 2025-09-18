@@ -1,6 +1,6 @@
 const productos = [
     {
-        nombre: "Café Caramel con Chocolate",
+        nombre: "Proyecto de Robots de Asistencia Médica",
         precio: null,
         imagen: "cafe_01",
         categoria_id: 1,
@@ -47,55 +47,6 @@ const productos = [
         imagen: "cafe_07",
         categoria_id: 1,
         id: 7
-      },
-      {
-        nombre: "Café Caliente Capuchino Grande",
-        precio: 59.9,
-        imagen: "cafe_08",
-        categoria_id: 1,
-        id: 8
-      },
-      {
-        nombre: "Café Mocha Caliente Mediano",
-        precio: 49.9,
-        imagen: "cafe_09",
-        categoria_id: 1,
-        id: 9
-      },
-      {
-        nombre: "Café Mocha Frio con Caramelo Mediano",
-        precio: 49.9,
-        imagen: "cafe_10",
-        categoria_id: 1,
-        id: 10
-      },
-      {
-        nombre: "Café Mocha Frio con Chocolate Mediano",
-        precio: 49.9,
-        imagen: "cafe_11",
-        categoria_id: 1,
-        id: 11
-      },
-      {
-        nombre: "Café Espresso",
-        precio: 29.9,
-        imagen: "cafe_12",
-        categoria_id: 1,
-        id: 12
-      },
-      {
-        nombre: "Café Capuchino Grande con Caramelo",
-        precio: 59.9,
-        imagen: "cafe_13",
-        categoria_id: 1,
-        id: 13
-      },
-      {
-        nombre: "Café Caramelo Grande",
-        precio: 59.9,
-        imagen: "cafe_14",
-        categoria_id: 1,
-        id: 14
       },
       {
         nombre: "Paquete de 3 donas de Chocolate",

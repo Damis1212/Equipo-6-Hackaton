@@ -9,7 +9,7 @@ export default function Categoria({categoria}) {
     <div className={`${categoriaActual.id === id ? 'bg-amber-400' : 'bg-white'} flex items-center gap-4 border w-full p-3 hover:bg-amber-400 cursor-pointer`}>
         <img
             alt="Imagen icono"
-            src={'/img/icono.jpg'}
+            src={'/img/IconoEscuela.jpg'}
             className="w-12"
         />
 

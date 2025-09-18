@@ -1,32 +1,32 @@
 const categorias = [
     {
         icono: "Mundo",
-        nombre: "Ciudad de Mexico",
+        nombre: "TESE",
         id:1
       },
       {
         icono: "Mundo",
-        nombre: "Estado de Mexico",
+        nombre: "UAM",
         id: 2
       },
       {
         icono: "Mundo",
-        nombre: "Monterrey",
+        nombre: "UNAM",
         id: 3
       },
       {
         icono: "Mundo",
-        nombre: "Chihuahua",
+        nombre: "IPN",
         id: 4
       },
       {
         icono: "Mundo",
-        nombre: "San Luis Potosi",
+        nombre: "UEAEM",
         id: 5
       },
       {
         icono: "Mundo",
-        nombre: "Puebla",
+        nombre: "UNEVE",
         id: 6
       }
 ]
