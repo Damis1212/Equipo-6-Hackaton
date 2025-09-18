@@ -1,8 +1,9 @@
 import Categoria from "./Categoria"
-import { categorias } from "../data/categorias"
+import useQuiosco from "../hooks/useQuiosco"
 
 
 export default function Sidebar() {
+  const { categorias } = useQuiosco();
 
   return (
     <aside className="md:w-72">
@@ -17,9 +18,10 @@ export default function Sidebar() {
         </div>
 
         <div className="mt-10">
-            {categorias.map( cateroria => (
+            {categorias.map( categoria => (
                 <Categoria 
-                    categoria={cateroria}
+                    key={categoria.id}
+                    categoria={categoria}
                 />
         ))}
 
