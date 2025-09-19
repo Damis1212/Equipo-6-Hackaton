@@ -1,7 +1,8 @@
 const productos = [
     {
         nombre: "Proyecto de Robots de Asistencia Médica",
-        precio: null,
+        descripcionCorta:"Prueba descripcion",
+        descripcionLarga:"Prueba Descripcion Larga",
         imagen: "Proyecto1",
         descripcionLarga: "El proyecto de Robots de Asistencia Médica busca crear soluciones tecnológicas innovadoras que ayuden a optimizar la atención en entornos de salud. Nuestro objetivo es diseñar y desarrollar robots capaces de realizar tareas de apoyo a profesionales médicos, como transportar suministros, monitorear signos vitales de pacientes, entregar medicación y asistir en procedimientos básicos. Este proyecto está dirigido a mejorar la eficiencia de los hospitales y clínicas, reducir el riesgo de errores humanos y brindar una atención más rápida y segura a los pacientes. Somos recién egresados de carreras tecnológicas y estamos en busca de apoyo y donaciones para llevar esta idea a la realidad, transformando la forma en que se brinda la atención médica con tecnología de vanguardia.",
         descripcionCorta: "Nuestro proyecto consiste en desarrollar robots de asistencia médica diseñados para apoyar a profesionales de la salud en tareas rutinarias, mejorando la eficiencia en hospitales y clínicas, y ofreciendo atención más rápida y segura a los pacientes.",
@@ -43,8 +44,9 @@ const productos = [
         nombre: "Proyecto de Sensores IoT para Ciudades Inteligentes",
         precio: 54.9,
         imagen: "Proyecto5",
-        descripcionLarga: "",
-        descripcionCorta: "",
+        descripcionLarga: "Nuestro proyecto desarrolla una red de sensores IoT capaces de monitorear diferentes aspectos de la ciudad, como tráfico, calidad del aire, consumo energético y seguridad. Los datos recopilados permiten optimizar recursos, tomar decisiones informadas y ofrecer soluciones más eficientes para la vida urbana. Este proyecto es impulsado por recién egresados apasionados por la tecnología y la innovación, con el objetivo de transformar las ciudades en espacios más inteligentes, seguros y sostenibles mediante soluciones tecnológicas avanzadas.",
+        descripcionCorta: "Proyecto de sensores IoT para ciudades inteligentes, que busca recopilar y analizar datos urbanos para mejorar la eficiencia, seguridad y sostenibilidad.",
+        razonDonar:"Apóyanos para que jóvenes talentos tecnológicos puedan llevar este proyecto a la realidad. Tu donación permitirá mejorar la infraestructura urbana mediante tecnología innovadora, promoviendo ciudades más seguras, eficientes y sostenibles, y fomentando el desarrollo de soluciones que beneficien a toda la comunidad.",
         categoria_id: 1,
         id: 5
     },
