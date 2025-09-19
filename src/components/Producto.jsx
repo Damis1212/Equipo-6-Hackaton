@@ -1,3 +1,4 @@
+import { productos } from '../data/productos';
 import { formatCurrency } from '../helpers';
 import useQuiosco from '../hooks/useQuiosco';
 
@@ -5,7 +6,7 @@ import useQuiosco from '../hooks/useQuiosco';
 export default function Producto({producto}) {
 
     const{ handleClickModal, handleSetProducto } = useQuiosco();
-    const { nombre, imagen, precio } = producto;
+    const { nombre, imagen, descripcionCorta} = producto;
     return (
     <div className='border p-3 shadow bg-white'>
         <img 
@@ -17,8 +18,8 @@ export default function Producto({producto}) {
         <h3 className='text-2xl font-bold'>{nombre}</h3>
         {/* <p className='mt-5 font-black text-4xl text-amber-500'>{formatCurrency(precio)}</p> */}
 
-        <p className="text-gray-600 mt-2 mb-1" 
-        >Aqui hiria una breve descripcion
+        <p className="text-gray-600 mt-2 mb-1">
+            {descripcionCorta}
         </p>
         
         <button

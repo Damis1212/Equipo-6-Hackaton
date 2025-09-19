@@ -1,9 +1,11 @@
 import useQuiosco from "../hooks/useQuiosco"
-import { formatCurrency } from "../helpers";
+import { formatCurrency } from "../helpers"; 
+import { productos } from "../data/productos";
 
 export default function ModalProducto() {
 
-    const { producto, handleClickModal } = useQuiosco();
+
+    const { producto, handleClickModal,descripcionLarga } = useQuiosco();
 
     return (
         <div className="md:flex gap-10">
@@ -27,8 +29,8 @@ export default function ModalProducto() {
                     {producto.nombre}
                 </h1>
 
-                <p>
-                    Aqui hiria una breve descripcion
+               <p className="text-gray-600 mt-4 mb-1"> 
+                {producto.descripcionLarga}
                 </p>
 
                 <input 
