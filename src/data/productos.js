@@ -98,55 +98,6 @@ const productos = [
         id: 21
       },
       {
-        nombre: "Paquete de 3 donas de Chocolate ",
-        precio: 39.9,
-        imagen: "donas_08",
-        categoria_id: 4,
-        id: 22
-      },
-      {
-        nombre: "Paquete de 3 donas con Vainilla y Chocolate ",
-        precio: 39.9,
-        imagen: "donas_09",
-        categoria_id: 4,
-        id: 23
-      },
-      {
-        nombre: "Paquete de 6 Donas",
-        precio: 69.9,
-        imagen: "donas_10",
-        categoria_id: 4,
-        id: 24
-      },
-      {
-        nombre: "Paquete de 3 Variadas",
-        precio: 39.9,
-        imagen: "donas_11",
-        categoria_id: 4,
-        id: 25
-      },
-      {
-        nombre: "Dona Natural con Chocolate",
-        precio: 19.9,
-        imagen: "donas_12",
-        categoria_id: 4,
-        id: 26
-      },
-      {
-        nombre: "Paquete de 3 Donas de Chocolate con Chispas",
-        precio: 39.9,
-        imagen: "donas_13",
-        categoria_id: 4,
-        id: 27
-      },
-      {
-        nombre: "Dona Chocolate y Coco",
-        precio: 19.9,
-        imagen: "donas_14",
-        categoria_id: 4,
-        id: 28
-      },
-      {
         nombre: "Paquete Galletas de Chocolate",
         precio: 29.9,
         imagen: "galletas_01",

@@ -27,9 +27,11 @@ export default function ModalProducto() {
                     {producto.nombre}
                 </h1>
 
-                <p className="mt-5 font-black text-5xl text-amber-500">
-                    { formatCurrency(producto.precio)}
-                </p>
+                <input 
+  className="input w-full px-40 py-2 mt-5 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-green-400 focus:border-green-400 transition duration-200" 
+  type="text" 
+  placeholder="Donación Viva Perú">
+                </input>
 
                 <button
                     type="button"
