@@ -29,9 +29,20 @@ export default function ModalProducto() {
                     {producto.nombre}
                 </h1>
 
-               <p className="text-gray-600 mt-4 mb-1"> 
-                {producto.descripcionLarga}
+               <p className="text-black mt-4 mb-1 text-justify max-w-2xl">
+  {producto.descripcionLarga}
+</p>
+
+                <p className="font-bold text-xl mt-4">
+  ¿Por qué nos tendrías que donar?
+</p>
+
+
+
+                <p className="text-black mt-4 mb-1 text-justify max-w-2xl">
+                {producto.razonDonar}
                 </p>
+
 
                 <input 
   className="input w-1/2 px-4 py-2 mt-5 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-green-400 focus:border-green-400 transition duration-200" 
@@ -45,9 +56,6 @@ export default function ModalProducto() {
 >
     Donar a esta persona
 </button>
-
-
-
             </div>
         </div>
     )

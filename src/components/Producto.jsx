@@ -18,9 +18,10 @@ export default function Producto({producto}) {
         <h3 className='text-2xl font-bold'>{nombre}</h3>
         {/* <p className='mt-5 font-black text-4xl text-amber-500'>{formatCurrency(precio)}</p> */}
 
-        <p className="text-gray-600 mt-2 mb-1">
-            {descripcionCorta}
-        </p>
+        <p className="text-gray-600 mt-2 mb-1 text-justify">
+  {descripcionCorta}
+</p>
+
         
         <button
             type='button'
