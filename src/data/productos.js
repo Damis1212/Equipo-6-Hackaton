@@ -49,91 +49,91 @@ const productos = [
         id: 7
       },
       {
-        nombre: "Paquete de 3 donas de Chocolate",
+        nombre: "Proyecto de Robots para Rescate en Desastres Naturales",
         precio: 39.9,
         imagen: "donas_01",
         categoria_id: 4,
         id: 15
       },
       {
-        nombre: "Paquete de 3 donas Glaseadas",
+        nombre: "Proyecto de Impresión 3D de Viviendas Sustentables",
         precio: 39.9,
         imagen: "donas_02",
         categoria_id: 4,
         id: 16
       },
       {
-        nombre: "Dona de Fresa ",
+        nombre: "Proyecto de Sensores Inteligentes para Control Ambiental",
         precio: 19.9,
         imagen: "donas_03",
         categoria_id: 4,
         id: 17
       },
       {
-        nombre: "Dona con Galleta de Chocolate ",
+        nombre: "Proyecto de Plataforma de Comercio con Realidad Aumentada",
         precio: 19.9,
         imagen: "donas_04",
         categoria_id: 4,
         id: 18
       },
       {
-        nombre: "Dona glass con Chispas Sabor Fresa ",
+        nombre: "Proyecto de Red de Microdrones para Vigilancia Ambiental",
         precio: 19.9,
         imagen: "donas_05",
         categoria_id: 4,
         id: 19
       },
       {
-        nombre: "Dona glass con Chocolate ",
+        nombre: "Proyecto de Software para Optimizar Consumo Energético",
         precio: 19.9,
         imagen: "donas_06",
         categoria_id: 4,
         id: 20
       },
       {
-        nombre: "Dona de Chocolate con MÁS Chocolate ",
+        nombre: "Proyecto de Vehículos Submarinos Autónomos",
         precio: 19.9,
         imagen: "donas_07",
         categoria_id: 4,
         id: 21
       },
       {
-        nombre: "Paquete Galletas de Chocolate",
+        nombre: "Proyecto de Sistemas Inteligentes de Gestión de Tráfico",
         precio: 29.9,
         imagen: "galletas_01",
         categoria_id: 6,
         id: 29
       },
       {
-        nombre: "Paquete Galletas de Chocolate y Avena",
+        nombre: "Proyecto de Robots Educativos para Niños",
         precio: 39.9,
         imagen: "galletas_02",
         categoria_id: 6,
         id: 30
       },
       {
-        nombre: "Paquete de Muffins de Vainilla",
+        nombre: "Proyecto de Asistentes de Voz Multilingües",
         precio: 39.9,
         imagen: "galletas_03",
         categoria_id: 6,
         id: 31
       },
       {
-        nombre: "Paquete de 4 Galletas de Avena",
+        nombre: "Proyecto de Energía Eólica Urbana Inteligente",
         precio: 24.9,
         imagen: "galletas_04",
         categoria_id: 6,
         id: 32
       },
       {
-        nombre: "Galletas de Mantequilla Variadas",
+        nombre: "Proyecto de Detección Temprana de Incendios Forestales",
         precio: 39.9,
         imagen: "galletas_05",
         categoria_id: 6,
         id: 33
       },
       {
-        nombre: "Galletas de sabores frutales",
+        nombre: "Proyecto de Plataforma de Aprendizaje Automático en la Nube",
         precio: 39.9,
         imagen: "galletas_06",
         categoria_id: 6,
@@ -189,42 +189,42 @@ const productos = [
         id: 41
       },
       {
-        nombre: "4 Rebanadas de Pay de Queso",
+        nombre: "Proyecto de Automatización del Reciclaje con Robots",
         precio: 69.9,
         imagen: "pastel_01",
         categoria_id: 5,
         id: 43
       },
       {
-        nombre: "Waffle Especial",
+        nombre: "Proyecto de IA para Prevención de Fraudes Financieros",
         precio: 49.9,
         imagen: "pastel_02",
         categoria_id: 5,
         id: 44
       },
       {
-        nombre: "Croissants De la casa",
+        nombre: "Proyecto de Cultivos Hidropónicos Automatizados",
         precio: 39.9,
         imagen: "pastel_03",
         categoria_id: 5,
         id: 45
       },
       {
-        nombre: "Pay de Queso",
+        nombre: "Proyecto de Análisis Predictivo para Desastres Naturales",
         precio: 19.9,
         imagen: "pastel_04",
         categoria_id: 5,
         id: 46
       },
       {
-        nombre: "Pastel de Chocolate",
+        nombre: "Proyecto de Logística Autónoma con Vehículos Eléctricos",
         precio: 29.9,
         imagen: "pastel_05",
         categoria_id: 5,
         id: 47
       },
       {
-        nombre: "Rebanada Pastel de Chocolate",
+        nombre: "Proyecto de Robots Asistentes para Personas Mayores",
         precio: 29.9,
         imagen: "pastel_06",
         categoria_id: 5,
