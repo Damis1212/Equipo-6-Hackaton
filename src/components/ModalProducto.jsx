@@ -30,7 +30,7 @@ export default function ModalProducto() {
                 <input 
   className="input w-full px-40 py-2 mt-5 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-green-400 focus:border-green-400 transition duration-200" 
   type="text" 
-  placeholder="Donación Viva Perú">
+  placeholder="Ingresa tu monto deseado a donar">
                 </input>
 
                 <button
