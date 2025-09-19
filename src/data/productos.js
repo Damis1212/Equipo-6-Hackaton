@@ -65,7 +65,7 @@ const productos = [
     {
         nombre: "Proyecto de Robots para Rescate en Desastres Naturales",
         precio: 39.9,
-        imagen: "donas_01",
+        imagen: "Proyecto22",
         descripcionLarga: "",
         descripcionCorta: "",
         categoria_id: 4,
@@ -74,7 +74,7 @@ const productos = [
     {
         nombre: "Proyecto de Impresión 3D de Viviendas Sustentables",
         precio: 39.9,
-        imagen: "donas_02",
+        imagen: "Proyecto23",
         descripcionLarga: "",
         descripcionCorta: "",
         categoria_id: 4,
@@ -83,7 +83,7 @@ const productos = [
     {
         nombre: "Proyecto de Sensores Inteligentes para Control Ambiental",
         precio: 19.9,
-        imagen: "donas_03",
+        imagen: "Proyecto24",
         descripcionLarga: "",
         descripcionCorta: "",
         categoria_id: 4,
@@ -92,7 +92,7 @@ const productos = [
     {
         nombre: "Proyecto de Plataforma de Comercio con Realidad Aumentada",
         precio: 19.9,
-        imagen: "donas_04",
+        imagen: "Proyecto25",
         descripcionLarga: "",
         descripcionCorta: "",
         categoria_id: 4,
@@ -101,7 +101,7 @@ const productos = [
     {
         nombre: "Proyecto de Red de Microdrones para Vigilancia Ambiental",
         precio: 19.9,
-        imagen: "donas_05",
+        imagen: "Proyecto26",
         descripcionLarga: "",
         descripcionCorta: "",
         categoria_id: 4,
@@ -110,7 +110,7 @@ const productos = [
     {
         nombre: "Proyecto de Software para Optimizar Consumo Energético",
         precio: 19.9,
-        imagen: "donas_06",
+        imagen: "Proyecto27",
         descripcionLarga: "",
         descripcionCorta: "",
         categoria_id: 4,
@@ -119,7 +119,7 @@ const productos = [
     {
         nombre: "Proyecto de Vehículos Submarinos Autónomos",
         precio: 19.9,
-        imagen: "donas_07",
+        imagen: "Proyecto28",
         descripcionLarga: "",
         descripcionCorta: "",
         categoria_id: 4,
@@ -128,7 +128,7 @@ const productos = [
     {
         nombre: "Proyecto de Sistemas Inteligentes de Gestión de Tráfico",
         precio: 29.9,
-        imagen: "galletas_01",
+        imagen: "Proyecto29",
         descripcionLarga: "",
         descripcionCorta: "",
         categoria_id: 6,
@@ -137,7 +137,7 @@ const productos = [
     {
         nombre: "Proyecto de Robots Educativos para Niños",
         precio: 39.9,
-        imagen: "galletas_02",
+        imagen: "Proyecto30",
         descripcionLarga: "",
         descripcionCorta: "",
         categoria_id: 6,
@@ -146,7 +146,7 @@ const productos = [
     {
         nombre: "Proyecto de Asistentes de Voz Multilingües",
         precio: 39.9,
-        imagen: "galletas_03",
+        imagen: "Proyecto31",
         descripcionLarga: "",
         descripcionCorta: "",
         categoria_id: 6,
@@ -155,7 +155,7 @@ const productos = [
     {
         nombre: "Proyecto de Energía Eólica Urbana Inteligente",
         precio: 24.9,
-        imagen: "galletas_04",
+        imagen: "Proyecto32",
         descripcionLarga: "",
         descripcionCorta: "",
         categoria_id: 6,
@@ -164,7 +164,7 @@ const productos = [
     {
         nombre: "Proyecto de Detección Temprana de Incendios Forestales",
         precio: 39.9,
-        imagen: "galletas_05",
+        imagen: "Proyecto33",
         descripcionLarga: "",
         descripcionCorta: "",
         categoria_id: 6,
@@ -173,7 +173,7 @@ const productos = [
     {
         nombre: "Proyecto de Plataforma de Aprendizaje Automático en la Nube",
         precio: 39.9,
-        imagen: "galletas_06",
+        imagen: "Proyecto34",
         descripcionLarga: "",
         descripcionCorta: "",
         categoria_id: 6,
@@ -245,7 +245,7 @@ const productos = [
     {
         nombre: "Proyecto de Automatización del Reciclaje con Robots",
         precio: 69.9,
-        imagen: "pastel_01",
+        imagen: "Proyecto35",
         descripcionLarga: "",
         descripcionCorta: "",
         categoria_id: 5,
@@ -254,7 +254,7 @@ const productos = [
     {
         nombre: "Proyecto de IA para Prevención de Fraudes Financieros",
         precio: 49.9,
-        imagen: "pastel_02",
+        imagen: "Proyecto36",
         descripcionLarga: "",
         descripcionCorta: "",
         categoria_id: 5,
@@ -263,7 +263,7 @@ const productos = [
     {
         nombre: "Proyecto de Cultivos Hidropónicos Automatizados",
         precio: 39.9,
-        imagen: "pastel_03",
+        imagen: "Proyecto37",
         descripcionLarga: "",
         descripcionCorta: "",
         categoria_id: 5,
@@ -272,7 +272,7 @@ const productos = [
     {
         nombre: "Proyecto de Análisis Predictivo para Desastres Naturales",
         precio: 19.9,
-        imagen: "pastel_04",
+        imagen: "Proyecto38",
         descripcionLarga: "",
         descripcionCorta: "",
         categoria_id: 5,
@@ -281,7 +281,7 @@ const productos = [
     {
         nombre: "Proyecto de Logística Autónoma con Vehículos Eléctricos",
         precio: 29.9,
-        imagen: "pastel_05",
+        imagen: "Proyecto39",
         descripcionLarga: "",
         descripcionCorta: "",
         categoria_id: 5,
@@ -290,7 +290,7 @@ const productos = [
     {
         nombre: "Proyecto de Robots Asistentes para Personas Mayores",
         precio: 29.9,
-        imagen: "pastel_06",
+        imagen: "Proyecto40",
         descripcionLarga: "",
         descripcionCorta: "",
         categoria_id: 5,
