@@ -34,17 +34,19 @@ export default function ModalProducto() {
                 </p>
 
                 <input 
-  className="input w-full px-40 py-2 mt-5 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-green-400 focus:border-green-400 transition duration-200" 
+  className="input w-1/2 px-4 py-2 mt-5 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-green-400 focus:border-green-400 transition duration-200" 
   type="text" 
-  placeholder="Ingresa tu monto deseado a donar">
-                </input>
+  placeholder="Ingresa tu monto deseado a donar"
+/>
 
-                <button
-                    type="button"
-                    className="bg-indigo-600 hover:bg-indigo-800 px-5 py-2 mt-5 text-white font-bold uppercase rounded"
-                >
-                    Donar a esta persona
-                </button>
+<button
+    type="button"
+    className="bg-indigo-600 hover:bg-indigo-800 px-5 py-2 mt-5 text-white font-bold uppercase rounded block"
+>
+    Donar a esta persona
+</button>
+
+
 
             </div>
         </div>
