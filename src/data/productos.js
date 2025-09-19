@@ -2,7 +2,7 @@ const productos = [
     {
         nombre: "Proyecto de Robots de Asistencia Médica",
         precio: null,
-        imagen: "cafe_01",
+        imagen: "Proyecto1",
         categoria_id: 1,
         id: 1
       },
@@ -189,13 +189,6 @@ const productos = [
         id: 41
       },
       {
-        nombre: "Paquete 2 Hot Dogs",
-        precio: 69.9,
-        imagen: "hamburguesas_08",
-        categoria_id: 2,
-        id: 42
-      },
-      {
         nombre: "4 Rebanadas de Pay de Queso",
         precio: 69.9,
         imagen: "pastel_01",
@@ -285,34 +278,6 @@ const productos = [
         imagen: "pizzas_07",
         categoria_id: 3,
         id: 55
-      },
-      {
-        nombre: "Pizza Vegetales y Queso",
-        precio: 69.9,
-        imagen: "pizzas_08",
-        categoria_id: 3,
-        id: 56
-      },
-      {
-        nombre: "Pizza Pepperoni y Queso",
-        precio: 69.9,
-        imagen: "pizzas_09",
-        categoria_id: 3,
-        id: 57
-      },
-      {
-        nombre: "Pizza Aceitunas y Queso",
-        precio: 69.9,
-        imagen: "pizzas_10",
-        categoria_id: 3,
-        id: 58
-      },
-      {
-        nombre: "Pizza Queso, Jamón y Champiñones",
-        precio: 69.9,
-        imagen: "pizzas_11",
-        categoria_id: 3,
-        id: 59
       }
 ]
 

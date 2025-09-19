@@ -27,6 +27,10 @@ export default function ModalProducto() {
                     {producto.nombre}
                 </h1>
 
+                <p>
+                    Aqui hiria una breve descripcion
+                </p>
+
                 <input 
   className="input w-full px-40 py-2 mt-5 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-green-400 focus:border-green-400 transition duration-200" 
   type="text" 
@@ -39,6 +43,7 @@ export default function ModalProducto() {
                 >
                     Donar a esta persona
                 </button>
+
             </div>
         </div>
     )
