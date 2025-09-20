@@ -10,9 +10,10 @@ export default function Producto({ producto }) {
         <div className="border p-3 shadow bg-white">
             <img
                 src={`img/${imagen}.jpg`}
-                className="mx-auto"
+                className="mx-auto w-80 h-48 object-cover rounded"
                 alt={`Imagen ${nombre}`}
             />
+
             <div className="p-5">
                 <h3 className="text-2xl font-bold">{nombre}</h3>
 
