@@ -34,8 +34,6 @@ export default function Layout() {
         </main>        
         
 
-        <Resumen />
-
         </div>
 
         

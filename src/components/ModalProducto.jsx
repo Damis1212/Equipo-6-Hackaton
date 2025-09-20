@@ -29,7 +29,6 @@ export default function ModalProducto() {
                     {producto.nombre}
                 </h1>
 
-<<<<<<< Updated upstream
                <p className="text-black mt-4 mb-1 text-justify max-w-2xl">
   {producto.descripcionLarga}
 </p>
@@ -42,10 +41,7 @@ export default function ModalProducto() {
 
                 <p className="text-black mt-4 mb-1 text-justify max-w-2xl">
                 {producto.razonDonar}
-=======
-               <p className="text-gray-600 mt-4 mb-1"> 
-                {producto.descripcionLarga}
->>>>>>> Stashed changes
+
                 </p>
 
 
