@@ -33,10 +33,10 @@ export default function Sidebar() {
         <div className="my-5 py-5">
             <button
                 type="button"
-                className="text-center bg-red-500 w-full p-3 font-bold text-white truncate"
-                onClick={handleCerrarSesion} // <-- aquí redirige
+                className="text-center bg-indigo-950 w-full p-3 font-bold text-white truncate"
+               onClick={() => navigate('/RegistroDatos')}
             >
-                Cerrar sesión
+                Agregar donacion a un proyecto
             </button>
         </div>
     </aside>

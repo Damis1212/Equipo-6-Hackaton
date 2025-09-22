@@ -39,6 +39,7 @@ export default function Login() {
           </div>
 
           <input
+          
             type="submit"
             value="Iniciar sesión"
             className="bg-indigo-600 hover:bg-indigo-800 text-white w-full mt-5 p-3 uppercase font-bold cursor-pointer"

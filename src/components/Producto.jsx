@@ -1,10 +1,12 @@
 import { productos } from '../data/productos';
 import { formatCurrency } from '../helpers';
 import useQuiosco from '../hooks/useQuiosco';
+import { useNavigate } from 'react-router-dom';
 
 export default function Producto({ producto }) {
     const { handleClickModal, handleSetProducto } = useQuiosco();
     const { nombre, imagen, descripcionCorta } = producto;
+    const navigate = useNavigate();
 
     return (
         <div className="border p-3 shadow bg-white">
@@ -34,7 +36,7 @@ export default function Producto({ producto }) {
                         handleSetProducto(producto);
                     }}
                 >
-                    Agregar Donacion
+                    Conocer mas sobre el proyecto
                 </button>
             </div>
         </div>

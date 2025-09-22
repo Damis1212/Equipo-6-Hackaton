@@ -4,6 +4,7 @@ import AuthLayout from './layouts/AuthLayout'
 import Registro from './views/Registro'
 import Inicio from './views/Inicio'
 import Login from './views/Login'
+import RegistroDatos from './views/RegistroDatos'
 
 const router = createBrowserRouter([
     {
@@ -31,7 +32,12 @@ const router = createBrowserRouter([
             ]
         
 
+    },
+    {
+        path: '/RegistroDatos',
+        element: <RegistroDatos />,
     }
+
 ])
 
 export default router
