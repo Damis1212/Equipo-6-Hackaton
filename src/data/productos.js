@@ -51,14 +51,16 @@ const productos = [
         id: 5
     },
     {
-        nombre: "Proyecto de Realidad Aumentada para Educación Interactiva",
-        precio: 39.9,
-        imagen: "Proyecto6",
-        descripcionLarga: "",
-        descripcionCorta: "",
-        categoria_id: 1,
-        id: 6
+    nombre: "Proyecto de Realidad Aumentada para Educación Interactiva",
+    precio: 39.9,
+    imagen: "Proyecto6",
+    descripcionCorta: "Aprendizaje inmersivo con realidad aumentada.",
+    descripcionLarga: "Plataforma educativa innovadora que integra realidad aumentada para transformar el proceso de enseñanza-aprendizaje. Permite a estudiantes y docentes interactuar con modelos 3D y entornos virtuales, facilitando la comprensión de conceptos complejos en áreas como ciencia, historia, matemáticas y arte. Esta tecnología promueve un aprendizaje más participativo, visual e intuitivo, mejorando la retención del conocimiento y el interés de los estudiantes. Además, puede adaptarse a diferentes niveles educativos y contextos, ofreciendo recursos dinámicos y accesibles que enriquecen la educación tradicional.",
+    razonDonar: "Al donar a este proyecto, contribuyes a democratizar el acceso a experiencias educativas avanzadas y a reducir la brecha tecnológica en instituciones con recursos limitados. Estás apoyando la creación de herramientas innovadoras que fomentan la curiosidad, el pensamiento crítico y el aprendizaje profundo en los estudiantes. También ayudas a que más escuelas y comunidades puedan implementar métodos educativos interactivos que preparen mejor a los jóvenes para los desafíos del futuro.",
+    categoria_id: 1,
+    id: 6
     },
+
     {
     nombre: "Proyecto de Blockchain para Trazabilidad de Alimentos",
     precio: 59.9,
