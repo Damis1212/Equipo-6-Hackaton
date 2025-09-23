@@ -41,7 +41,8 @@ const styles = {
     padding: '1rem',
     border: 'none',
     borderRadius: '4px',
-    backgroundColor: '#007bff',
+    backgroundColor: "#1a1a1a"
+,
     color: 'white',
     fontSize: '1.1rem',
     fontWeight: 'bold',

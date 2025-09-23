@@ -9,10 +9,10 @@ export default function Producto({ producto }) {
     const navigate = useNavigate();
 
     return (
-        <div className="border p-3 shadow bg-white">
+        <div className="bg-white rounded-2xl shadow-lg overflow-hidden transform transition duration-300 hover:scale-105 hover:shadow-2xl">
             <img
                 src={`img/${imagen}.jpg`}
-                className="mx-auto w-80 h-48 object-cover rounded"
+                className="w-full h-52 object-cover"
                 alt={`Imagen ${nombre}`}
             />
 
@@ -20,23 +20,24 @@ export default function Producto({ producto }) {
                 <h3 className="text-2xl font-bold">{nombre}</h3>
 
                 {/* Si quieres mostrar precio, descomenta esto */}
-                {/* <p className="mt-5 font-black text-4xl text-amber-500">
+                {/* <p className="mt-3 font-black text-3xl text-amber-500 text-center">
                     {formatCurrency(precio)}
                 </p> */}
 
-                <p className="text-gray-600 mt-2 mb-1 text-justify">
+
+                <p className="text-gray-600 mt-2 text-justify leading-relaxed">
                     {descripcionCorta}
                 </p>
-
+                
                 <button
                     type="button"
-                    className="bg-indigo-600 hover:bg-indigo-800 text-white w-full mt-5 p-3 uppercase font-bold"
+                    className="bg-gradient-to-r from-red-500 to-red-700 hover:from-red-600 hover:to-red-800 text-white w-full mt-5 py-3 rounded-xl uppercase font-bold tracking-wide shadow-md hover:shadow-lg transition duration-300"
                     onClick={() => {
                         handleClickModal();
                         handleSetProducto(producto);
                     }}
                 >
-                    Conocer mas sobre el proyecto
+                    Conocer más sobre el proyecto
                 </button>
             </div>
         </div>

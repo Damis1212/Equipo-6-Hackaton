@@ -1,31 +1,31 @@
 const categorias = [
     {
-        icono: "Mundo",
+        icono: "iconoTese",
         nombre: "TESE",
         id:1
       },
       {
-        icono: "Mundo",
+        icono: "iconoUam",
         nombre: "UAM",
         id: 2
       },
       {
-        icono: "Mundo",
+        icono: "iconoUnam",
         nombre: "UNAM",
         id: 3
       },
       {
-        icono: "Mundo",
+        icono: "iconoIpn",
         nombre: "IPN",
         id: 4
       },
       {
-        icono: "Mundo",
-        nombre: "UEAEM",
+        icono: "iconoUaem",
+        nombre: "UAEM",
         id: 5
       },
       {
-        icono: "Mundo",
+        icono: "iconoUneve",
         nombre: "UNEVE",
         id: 6
       }
